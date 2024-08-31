@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="JwKQs30fpyQAU54tK5lM">
+    <mxGraphModel dx="1018" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-1" value="JB&lt;div&gt;86 y/o F&lt;/div&gt;&lt;div&gt;FULL CODE&lt;/div&gt;&lt;div&gt;Admitted: 08/24/24&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-2" value="SYNCOPE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-3" value="Vasovagal syncope&lt;div&gt;(Harding et al., 2022, pg___)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rDe-ku0naCSiRZYIw7cr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-4" value="Heart failure" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#CCCCFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-5" value="Dysrhythmias" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;textShadow=0;labelBackgroundColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-6" value="Pulmonary emboli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-8" value="Stress" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-9" value="Hypoglycemia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-10" value="Dehydration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-11" value="Stroke" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-12" value="Orthostatic hypotension" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
