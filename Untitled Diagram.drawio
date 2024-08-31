@@ -4,46 +4,64 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-1" value="JB&lt;div&gt;86 y/o F&lt;/div&gt;&lt;div&gt;FULL CODE&lt;/div&gt;&lt;div&gt;Admitted: 08/24/24&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-1" value="JB&lt;div&gt;86 y/o F&lt;/div&gt;&lt;div&gt;FULL CODE&lt;/div&gt;&lt;div&gt;Admitted: 08/24/24&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-2" value="SYNCOPE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-2" value="SYNCOPE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-3" value="Vasovagal syncope&lt;div&gt;(Harding et al., 2022, pg___)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-3" value="Vasovagal syncope&lt;div&gt;(Harding et al., 2022, pg___)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rDe-ku0naCSiRZYIw7cr-4">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rDe-ku0naCSiRZYIw7cr-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-4" value="Heart failure" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#CCCCFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-4" value="Heart failure" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#CCCCFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-5" value="Dysrhythmias" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;textShadow=0;labelBackgroundColor=#CCCCFF;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-5" value="Dysrhythmias" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;textShadow=0;labelBackgroundColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-6" value="Pulmonary emboli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-6" value="Pulmonary emboli" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-8" value="Stress" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-8" value="Stress" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-9" value="Hypoglycemia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-9" value="Hypoglycemia" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-10" value="Dehydration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-10" value="Dehydration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-11" value="Stroke" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-11" value="Stroke" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-12" value="Orthostatic hypotension" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#CCCCFF;" vertex="1" parent="1">
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-12" value="Orthostatic hypotension" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="550" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDe-ku0naCSiRZYIw7cr-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="feBVgHe762FqVsPA2SjR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rDe-ku0naCSiRZYIw7cr-13" target="feBVgHe762FqVsPA2SjR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rDe-ku0naCSiRZYIw7cr-13" value="500-800mL of blood moves towards the lower extremities by gravity when standing up" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="feBVgHe762FqVsPA2SjR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-1" target="feBVgHe762FqVsPA2SjR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feBVgHe762FqVsPA2SjR-1" value="increases capillary pressure and decreases plasma" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feBVgHe762FqVsPA2SjR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-3" target="feBVgHe762FqVsPA2SjR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feBVgHe762FqVsPA2SjR-3" value="pooling of blood in veins decreases venous return to the heart" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feBVgHe762FqVsPA2SjR-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
