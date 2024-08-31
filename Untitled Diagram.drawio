@@ -46,34 +46,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rDe-ku0naCSiRZYIw7cr-13" value="500-800mL of blood moves towards the lower extremities by gravity when standing up" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-1" target="feBVgHe762FqVsPA2SjR-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feBVgHe762FqVsPA2SjR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-1" target="feBVgHe762FqVsPA2SjR-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-1" value="capillary pressure increases and plasma decreases" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-9" target="feBVgHe762FqVsPA2SjR-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="feBVgHe762FqVsPA2SjR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-3" target="feBVgHe762FqVsPA2SjR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-9" value="increase in sympathetic stimulation, decrease in parasympathetic output" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="feBVgHe762FqVsPA2SjR-3" value="pooling of blood in veins decreases venous return to the heart" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-11" value="increase in HR, decrease in systolic BP, increase in diastolic BP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="feBVgHe762FqVsPA2SjR-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-7" target="feBVgHe762FqVsPA2SjR-20">
           <mxGeometry relative="1" as="geometry" />
@@ -82,25 +70,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-7" value="mechanoreceptors respond to increase in blood volume" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-16" target="feBVgHe762FqVsPA2SjR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-16" value="pooling of blood in veins decrease venous return to the heart" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-20" target="feBVgHe762FqVsPA2SjR-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-20" value="brain mistakens this as a hypertensive state, sympathetic stimulation stops" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-22" target="feBVgHe762FqVsPA2SjR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-22" value="paradoxical vasodilation and bradycardia = vasovagal response" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feBVgHe762FqVsPA2SjR-24" target="feBVgHe762FqVsPA2SjR-9">
           <mxGeometry relative="1" as="geometry" />
@@ -121,16 +109,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-35" value="hypotension, syncopal episode" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-37" value="5mg Midodrine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feBVgHe762FqVsPA2SjR-38" value="pt falls, sustains fracture to right humerus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="feBVgHe762FqVsPA2SjR-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
