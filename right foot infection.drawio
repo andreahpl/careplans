@@ -1,25 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1454" dy="2113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="2371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="0UyjkiH3a4Jmzp970qa8-4" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;b&gt;neuropathy&lt;/b&gt;&lt;/span&gt;&lt;div&gt;(Harding, et al., 2022, pg. 1317)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" width="114" height="45" as="geometry" />
+          <mxGeometry x="250" y="-160" width="114" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-5" value="&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;b&gt;obesity&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;(Wang, et al., 2022)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" width="120" height="50" as="geometry" />
+          <mxGeometry x="364" y="-160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-6" value="peripheral artery disease&lt;div&gt;(Harding, et al., 2022, pg. 1317)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="484" width="136" height="45" as="geometry" />
+          <mxGeometry x="484" y="-160" width="136" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-7" value="nutritional dysfunction&lt;div&gt;(Murphy-Lavoie, et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" width="120" height="45" as="geometry" />
+          <mxGeometry x="620" y="-160" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-10" target="0UyjkiH3a4Jmzp970qa8-54">
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-10" target="0UyjkiH3a4Jmzp970qa8-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-10" target="0UyjkiH3a4Jmzp970qa8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-10" target="0UyjkiH3a4Jmzp970qa8-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-10" value="hyperglycemia leads to accumulation of sorbitol and fructose in the nerves&lt;div&gt;(Harding, et al., 2022, pg. 1316)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -49,17 +52,17 @@
         <mxCell id="0UyjkiH3a4Jmzp970qa8-15" value="s/s: loss of sensation&lt;div&gt;s/s: pain&lt;/div&gt;&lt;div&gt;s/s: tingling/itching/burning sensation&lt;/div&gt;&lt;div&gt;(Harding, et al., 2022, pg. 1316)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="264" y="377.5" width="150" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-17" value="Insulin Lispro Humalog&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-17" value="Insulin Lispro Humalog&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-18" value="clotting abnormalities&lt;div&gt;(Harding, et al., 2022, pg.1317)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" width="120" height="45" as="geometry" />
+          <mxGeometry x="740" y="-160" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-19" value="impaired immune system&lt;div&gt;&amp;nbsp;(Harding, et al., 2022, pg.1317)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" width="140" height="45" as="geometry" />
+          <mxGeometry x="860" y="-160" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-20" value="smoking&lt;div&gt;(Harding, et al., 2022, pg.1317)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" width="120" height="45" as="geometry" />
+          <mxGeometry x="1000" y="-160" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-21" value="pt reports numbess and tingling under right foot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="279" y="500" width="120" height="60" as="geometry" />
@@ -67,8 +70,11 @@
         <mxCell id="0UyjkiH3a4Jmzp970qa8-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-24" target="0UyjkiH3a4Jmzp970qa8-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-24" value="diabetes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="120" width="120" height="40" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-24" target="0UyjkiH3a4Jmzp970qa8-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-24" value="diabetes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="-30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-25" target="0UyjkiH3a4Jmzp970qa8-26">
           <mxGeometry relative="1" as="geometry" />
@@ -167,6 +173,17 @@
         <mxCell id="0UyjkiH3a4Jmzp970qa8-44" value="blood flow does not meet metabolic needs of distal tissues&lt;div&gt;(Harding, et al., 2022, pg. 934)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="755" y="650" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-45" target="0UyjkiH3a4Jmzp970qa8-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-45" target="0UyjkiH3a4Jmzp970qa8-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="759.8571428571431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-45" value="complications:&lt;div&gt;cellulitis&lt;/div&gt;&lt;div&gt;osteomyelitis&lt;/div&gt;&lt;div&gt;sepsis&lt;/div&gt;&lt;div&gt;necrosis&lt;/div&gt;&lt;div&gt;(Murphy-Lavoie, et al., 2023)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="670" width="150" height="120" as="geometry" />
         </mxCell>
@@ -176,6 +193,15 @@
         <mxCell id="0UyjkiH3a4Jmzp970qa8-47" value="atrophy of skin and muscles&amp;nbsp;&lt;div&gt;(Harding, et al., 2022, pg. 933)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="755" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-48" target="0UyjkiH3a4Jmzp970qa8-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-48" target="0UyjkiH3a4Jmzp970qa8-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-48" target="0UyjkiH3a4Jmzp970qa8-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-48" value="complication: delayed healing, wound infection, tissue necrosis, ulcers over bony prominences&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Harding, et al., 2022, pg. 934)&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="690" width="120" height="120" as="geometry" />
         </mxCell>
@@ -183,15 +209,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-49" value="amputation&lt;div&gt;(Harding, et al., 2022, pg.934)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="755" y="840" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-51" target="0UyjkiH3a4Jmzp970qa8-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="565" y="820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-51" target="0UyjkiH3a4Jmzp970qa8-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-51" target="0UyjkiH3a4Jmzp970qa8-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-51" target="0UyjkiH3a4Jmzp970qa8-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-51" value="decreased blood flow, O2, WBC, and nutrients to tissues (Harding, et al., 2022, pg. 1317)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -201,96 +227,230 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-52" value="insulin receptors on skeletal muscle, fat, and liver cells are unresponsive&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;Harding, et al., 2022. pg.1288)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="300" width="120" height="90" as="geometry" />
+          <mxGeometry x="600" y="150" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-53" target="0UyjkiH3a4Jmzp970qa8-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-53" value="insulin resistance&lt;div&gt;Harding, et al., 2022, pg.1288)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="257.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-54" value="glucose can&#39;t enter cell = hyperglycemia in the blood&lt;div&gt;(Harding, et al., 2022, pg.1288)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="455" width="120" height="68" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-54" target="0UyjkiH3a4Jmzp970qa8-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-55" target="0UyjkiH3a4Jmzp970qa8-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="90" />
-              <mxPoint x="740" y="130" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-54" value="glucose can&#39;t enter cell&amp;nbsp;&lt;div&gt;(Harding, et al., 2022, pg.1288)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="322" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-55" target="0UyjkiH3a4Jmzp970qa8-150">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-55" value="liver produces excess glucose&lt;div&gt;(Harding, et al., 2022, pg. 1288)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-57" value="DIABETIC FOOT ULCER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-58" target="0UyjkiH3a4Jmzp970qa8-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-58" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;defective b-cell secretion of insulin, pancreas can&#39;t make insulin, alpha cells on pancreas increase glucagon&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;(Harding, et al., 2022, pg.1288)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#E6FFCC;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="170" width="120" height="120" as="geometry" />
+          <mxGeometry x="600" y="20" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-42" value="s/s of reduced blood flow: decreased or absent pedal, femoral and popliteal pulses (Harding, et al., 2022, pg. 934)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="455" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-98" value="Risk factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-99" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;C.C.&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;58 y/o M&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;FULL CODE&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Admitted: 09/04/24&lt;/div&gt;&#xa;&#xa;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-100" value="Pathophysiology" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-101" value="Signs/Symptoms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-102" value="Labs/Diagnostics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="280" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="282.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-103" value="Diagnosis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="340" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="340" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-104" value="Medications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="400" width="120" height="50" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-104" value="Medications" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-105" value="Potential Complications" style="whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-106" value="Nursing Problem Statement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-108" target="0UyjkiH3a4Jmzp970qa8-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-108" target="0UyjkiH3a4Jmzp970qa8-183">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-108" value="pt had amputation pf right big toe on 09/06 along with wound vac attached" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="565" y="897.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-120" target="0UyjkiH3a4Jmzp970qa8-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-120" value="BG: 480 mg/dL&lt;div&gt;A1C: 12.4&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-121" value="&lt;b style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;diabetes&lt;/b&gt;&lt;div&gt;(Wang, et al., 2022)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21BCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1121" width="120" height="45" as="geometry" />
+          <mxGeometry x="1120" y="-160" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-122" target="0UyjkiH3a4Jmzp970qa8-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UyjkiH3a4Jmzp970qa8-122" value="MRI FOOT RIGHT WO CONTRAST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="399" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="397.75" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-123" value="&#xa;&#xa;&#xa;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-bidi-font-size:11.0pt;&#xa;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;moderate soft tissue edema and enhancement at&#xa;great toe suspicious for cellulitis&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="155" y="747.5" width="109" height="150" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-123" target="0UyjkiH3a4Jmzp970qa8-125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-125" value="&lt;br&gt;&lt;br&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Daptomycin IVP:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: initial;&quot;&gt;6&lt;br&gt;mg/kg over 2 minutes&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Vancomycin IVPB:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: initial;&quot;&gt;1250&lt;br&gt;mg in 250 mL NS over 2 hr&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Piperacillin-Tazobactam IVPB:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: initial;&quot;&gt;4.5&lt;br&gt;g in 100mL NS over 6hrs&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top:.2pt;margin-right:0in;margin-bottom:&lt;br/&gt;0in;margin-left:5.45pt;margin-bottom:.0001pt&quot; class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top:.2pt;margin-right:0in;margin-bottom:&lt;br/&gt;0in;margin-left:5.45pt;margin-bottom:.0001pt&quot; class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top:.2pt;margin-right:0in;margin-bottom:&lt;br/&gt;0in;margin-left:5.45pt;margin-bottom:.0001pt&quot; class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Ceftriaxone IVP: 2g/20mL&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;Metronidazole PO: 500mg&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1060" y="460" width="150" height="287.5" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-123" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;moderate soft tissue edema and enhancement at&lt;br&gt;&lt;font face=&quot;Helvetica&quot;&gt;great toe suspicious for cellulitis&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="585" width="109" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-126" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;Kills the bacteria that&lt;br&gt;is infecting the right foot. It also helps fight the MRSA infection in your&lt;br&gt;nares. &lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="508.75" width="120" height="190" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-125" value="&lt;br&gt;&lt;br&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Daptomycin IVP:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: initial;&quot;&gt;6&lt;br&gt;mg/kg over 2 minutes&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Vancomycin IVPB:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: initial;&quot;&gt;1250&lt;br&gt;mg in 250 mL NS over 2 hr&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Piperacillin-Tazobactam IVPB:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: initial;&quot;&gt;4.5&lt;br&gt;g in 100mL NS over 6hrs&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top:.2pt;margin-right:0in;margin-bottom:&lt;br/&gt;0in;margin-left:5.45pt;margin-bottom:.0001pt&quot; class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top:.2pt;margin-right:0in;margin-bottom:&lt;br/&gt;0in;margin-left:5.45pt;margin-bottom:.0001pt&quot; class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top:.2pt;margin-right:0in;margin-bottom:&lt;br/&gt;0in;margin-left:5.45pt;margin-bottom:.0001pt&quot; class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-font-width:90%&quot;&gt;Ceftriaxone IVP: 2g/20mL&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;TableParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Metronidazole PO: 500mg&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="636.25" width="150" height="287.5" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-127" value="pt presents to ER with&amp;nbsp;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA;mso-bidi-font-weight:bold&quot;&gt;HR of 116, temperature&lt;br/&gt;of 99.4, WBC of 19.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="810" width="120" height="110" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-127" target="0UyjkiH3a4Jmzp970qa8-178">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0UyjkiH3a4Jmzp970qa8-128" value="staph shows in culture????" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-127" value="&lt;font face=&quot;Helvetica&quot;&gt;pt presents to ER with&amp;nbsp;&lt;span style=&quot;font-size: 11pt;&quot;&gt;HR of 116, temperature&lt;br&gt;of 99.4, WBC of 19.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="397.75" y="710" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.038;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-127" target="0UyjkiH3a4Jmzp970qa8-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-145" target="0UyjkiH3a4Jmzp970qa8-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-145" value="long inflammatory phase during wound healing&lt;div&gt;(Dasari, et al., 2021)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-146" target="0UyjkiH3a4Jmzp970qa8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-146" value="vascular insufficiency&lt;div&gt;(Raja, et al., 2023)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-54" target="0UyjkiH3a4Jmzp970qa8-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-150" value="hyperglycemia&lt;div&gt;(Harding, et al., 2022, pg. 1288)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-154" value="macrophages (M1) that arrive are phagocytic and proinflammatory&lt;div&gt;(Dasari, et al., 2021)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="566" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-155" target="0UyjkiH3a4Jmzp970qa8-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-155" value="M1 are replaced by M2 macrophages which are ant-inflammatory and promote angiogenesis&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;Dasari, et al., 2021)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1080" y="475" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-156" value="in diabetics, M1 produce excess proinflammatory cytokines that don&#39;t convert into anti-inflammatory macrophages&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;Dasari, et al., 2021))&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="350" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-158" target="0UyjkiH3a4Jmzp970qa8-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-158" value="neutrophils release molecules to kill pathogens&lt;div&gt;(Raja, et al., 2023)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.423;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-154" target="0UyjkiH3a4Jmzp970qa8-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.366;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-155" target="0UyjkiH3a4Jmzp970qa8-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-162" value="for diabetics, causes proinflammatory cascade and overproduction of cytokines and superoxide&lt;div&gt;(Raja, et al., 2023)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="693.75" width="120" height="116.25" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-164" value="oxidative stress leads to further tissue damage and delayed healing in diabetics (Dasari, et al., 2021)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="580" width="129" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.423;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-162" target="0UyjkiH3a4Jmzp970qa8-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-170" target="0UyjkiH3a4Jmzp970qa8-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-170" value="when injury occurs, there are insufficient proangiogenic factors that are released for diabetics&lt;div&gt;(Dasari, et al., 2021)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="370" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-171" target="0UyjkiH3a4Jmzp970qa8-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-171" value="macrophages produces less of angiogenic factors&lt;div&gt;(Dasari, et al., 2021)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="482.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-172" value="delay in reestablish blood supply that is needed for wound healing&lt;div&gt;(Dasari, et al., 2021)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="252.5" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-177" value="Problem Statement #1 Impaired Skin Integrity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="264.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-178" value="Problem Statement #2&lt;div&gt;Risk for infection&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="397.75" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-179" value="Problem #1 Impaired Physical Mobilty" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="983.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-180" target="0UyjkiH3a4Jmzp970qa8-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-180" value="Problem #2&lt;div&gt;Deficient Knowledge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-181" target="0UyjkiH3a4Jmzp970qa8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-181" value="Problem #3 Ineffective Tissue Perfusion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="279" y="237.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-183" value="Problem #4&lt;div&gt;Risk for Injury&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-184" value="Problem #5&lt;div&gt;Disturbed Body Image&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="923.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-192" value="Problem #3 Ineffective Tissue Perfusion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-195" value="Problem Statement #1 Impaired Skin Integrity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="837.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-197" target="0UyjkiH3a4Jmzp970qa8-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-197" value="Problem Statement #2 Risk for Infection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="837.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-199" target="0UyjkiH3a4Jmzp970qa8-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-199" value="&lt;div&gt;Problem Statement #1&lt;/div&gt;&lt;div&gt;Impaired Skin Integrity&lt;/div&gt;Problem Statement #2&lt;div&gt;Risk for infection&lt;/div&gt;&lt;div&gt;Problem #3 Ineffective Tissue Perfusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1410" y="247.5" width="120" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0UyjkiH3a4Jmzp970qa8-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.026;entryY=0.881;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UyjkiH3a4Jmzp970qa8-199" target="0UyjkiH3a4Jmzp970qa8-172">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
