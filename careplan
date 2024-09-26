@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1198" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="2113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -41,13 +41,13 @@
           <mxGeometry x="570" y="-60" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-15" value="in a normal heart, heart cells sends electrical impulse to heart tissue causing muscle contraction&lt;div&gt;lewis 884&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="200" width="120" height="100" as="geometry" />
+          <mxGeometry x="320" y="90" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-16" value="in a normal heart, specialized cells sends an electrical impulse to the SA node, the heart&#39;s natural pacemaker, in the right atrium&amp;nbsp;&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-16" value="specialized cells sends an electrical impulse to the SA node, the heart&#39;s natural pacemaker, in the right atrium&amp;nbsp;&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="200" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-17" value="the electrical impulse then travels through the Bundle of His, down the left and right bundle branches to the Purkinje fibers causing ventricular contraction&lt;div&gt;lewis 884&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="480" width="120" height="130" as="geometry" />
+          <mxGeometry x="320" y="475" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-18" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;the impulse travels to the AV node causing atrial contraction&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;lewis 884&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="450" y="-10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-23" value="rogers 1102&lt;div&gt;clinical manifestations of dysrhythamis are due to changes in delivery of blood to tissues&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-24" value="which causes changes in HR, cardiac output, and cardiac output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-25" value="HTN&lt;div&gt;(MayoClinic)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="-10" width="120" height="40" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry x="630" y="60" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-36" value="complications (mayoclinicn)&lt;div&gt;+ sinus brady&lt;/div&gt;&lt;div&gt;+ sinus arrest&lt;/div&gt;&lt;div&gt;+ sinoatrial block&lt;/div&gt;&lt;div&gt;+chronotropic incometence&lt;/div&gt;&lt;div&gt;+tachycardiac-brradycardia sydrome&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="490" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-37" value="c/c: syncope, fatigue, lightheadedess" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="850" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-38" value="s/s: SOB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="90" width="120" height="60" as="geometry" />
@@ -111,6 +111,36 @@
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-43" value="c/c hypotension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-44" value="imparies myocarial contacctility&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-45" value="when SA node fires too slow, electric signal &quot;escapes&quot;&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-46" value="2nd pacemaker in AV node fires automatically at 40-60 bpm&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="290" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-48" value="patho for HTN, hyperlipidiea, MU, medicatoins&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-49" value="impulse is sent to cells in the heart then to myocardial tissue&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-50" value="depolarization occurs and is followed by refractory phase&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-51" value="MI causes areas of the heart to be blocked and results in uneven conduction&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="435" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-52" value="c/c: premature beat, rapid heart rhythm&lt;div&gt;lewis 888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-53" value="#1 inadequate tissue perfusion (fatigue, dizziness, chest pain, syncope)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-54" value="s/s: bradycardia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
