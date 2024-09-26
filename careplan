@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2393" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="2371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="30" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-10" value="s/s:&lt;div&gt;bradycardia, tachycardia,&lt;/div&gt;&lt;div&gt;combination of both&lt;/div&gt;&lt;div&gt;(ClevelandClinic)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="90" width="120" height="70" as="geometry" />
+          <mxGeometry x="1100" y="85" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-11" value="&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Older age&lt;/b&gt;&lt;div&gt;(MayoClinic)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="-10" width="120" height="40" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-24" value="abnormal HR decreases cardiac output, and BP&lt;div&gt;(Rogers, 2023, pg. 1102)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Harding, et al., 2023, pg. 884)&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="382.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="787.5" y="397.5" width="125" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-25" value="&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;HTN&lt;/b&gt;&lt;div&gt;(MayoClinic)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="-10" width="120" height="40" as="geometry" />
@@ -124,17 +124,20 @@
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-35" value="SICK SINUS SYNDROME SYMPTOMATIC BRADYCARADIA&lt;div&gt;(sinus node dysfunction)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="60" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-36" target="iE4L_jwIMQq8XWM_oUvE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-36" value="&lt;div&gt;+ sinus brady&lt;/div&gt;&lt;div&gt;+ sinus arrest&lt;/div&gt;&lt;div&gt;+ sinoatrial block&lt;/div&gt;&lt;div&gt;+chronotropic incompetence&lt;/div&gt;&lt;div&gt;+tachycardiac-bradycardia syndrome&lt;/div&gt;&lt;div&gt;(MayoClinic)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1090" y="60" width="120" height="150" as="geometry" />
+          <mxGeometry x="950" y="45" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-40" target="iE4L_jwIMQq8XWM_oUvE-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-40" value="long pause &amp;gt; 3.0 seconds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-43" value="hypotension" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-44" target="iE4L_jwIMQq8XWM_oUvE-23">
           <mxGeometry relative="1" as="geometry" />
@@ -143,7 +146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-44" value="impairs myocardial contractility&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Rogers, 2023, pg. 1102)&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="521.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-45" target="iE4L_jwIMQq8XWM_oUvE-46">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-45" value="when SA node fires too slow, electric signal &quot;escapes&quot;&lt;div&gt;(Harding, et al., 2023, pg. 888)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="785" y="175" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-46" target="iE4L_jwIMQq8XWM_oUvE-24">
           <mxGeometry relative="1" as="geometry" />
@@ -167,10 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-46" value="2nd pacemaker in AV node fires automatically at 40-60 bpm&lt;div&gt;(Harding, et al., 2023, pg. 888)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="270" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-23" target="iE4L_jwIMQq8XWM_oUvE-81">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="790" y="270" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-51" target="iE4L_jwIMQq8XWM_oUvE-81">
           <mxGeometry relative="1" as="geometry" />
@@ -185,28 +185,25 @@
           <mxGeometry x="182.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-56" value="HR x SV = cardiac output&lt;div&gt;BP = cardiac output x peripheral resistance&lt;/div&gt;&lt;div&gt;(Rogers, 2023, pg. 1045)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1121" y="350" width="120" height="90" as="geometry" />
+          <mxGeometry x="1190" y="350" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-59" value="bradycardia&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="950" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-60" target="iE4L_jwIMQq8XWM_oUvE-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-60" value="inadequate perfusion to tissues&amp;nbsp;&lt;div&gt;(Rogers, 2023, pg. 1102)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="650" width="120" height="70" as="geometry" />
+          <mxGeometry x="790" y="690" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-64" target="iE4L_jwIMQq8XWM_oUvE-153">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-62" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;patho for HTN &amp;gt;&amp;nbsp; hyperlipidiea &amp;gt; BMI &amp;gt;&amp;nbsp; medicatoins&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="-140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-64" target="iE4L_jwIMQq8XWM_oUvE-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-64" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;s/s: fatigue, dizziness, chest pain, syncope&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="920" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="695" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-65" target="iE4L_jwIMQq8XWM_oUvE-82">
           <mxGeometry relative="1" as="geometry" />
@@ -226,9 +223,6 @@
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-68" value="on an EKG, depolarization occurs during atrial contraction and is represented as the P wave&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Harding, et al., 2023, pg. 769)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="487" y="477.5" width="123" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-67" value="wide pulpse pressure&lt;div&gt;BP&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="-120" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-69" value="on an EKG, depolarization during ventricular contraction is represented as the QRS complex&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Harding, et al., 2023, pg. 769)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="620" width="130" height="100" as="geometry" />
         </mxCell>
@@ -241,14 +235,8 @@
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-72" target="iE4L_jwIMQq8XWM_oUvE-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-72" value="sinus pause/arrest that last more than 3 seconds&lt;div&gt;(Dakkak, et al., 2023)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-73" target="iE4L_jwIMQq8XWM_oUvE-72">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-73" value="failure of cells to generate action potential&amp;nbsp;&lt;div&gt;(Dakkak, et al., 2023)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-81" target="iE4L_jwIMQq8XWM_oUvE-52">
           <mxGeometry relative="1" as="geometry" />
@@ -259,17 +247,8 @@
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-81" target="iE4L_jwIMQq8XWM_oUvE-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-78" target="iE4L_jwIMQq8XWM_oUvE-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-78" value="QT interval is the time takes for the ventricles to depolarize and reploarize&lt;div&gt;888&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="680" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-82" target="iE4L_jwIMQq8XWM_oUvE-84">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-79" value="changes in HR alter QT interval is in seen&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-82" value="movement of ions creates a membrane potential and reaches a threshold potential for cardiac cells causing cardiac action potential&lt;div&gt;(Rogers, 2023, pg. 1030)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="1010" width="120" height="130" as="geometry" />
@@ -349,10 +328,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-141" value="wide pulse pressure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="960" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-144" value="09/23/24&lt;div&gt;0725 - 147/43&lt;/div&gt;&lt;div&gt;1116 - 130/45&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-149" target="iE4L_jwIMQq8XWM_oUvE-151">
           <mxGeometry relative="1" as="geometry" />
@@ -361,25 +340,22 @@
           <mxGeometry x="940" y="535" width="120" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-151" value="+1 edema in RLE + LLE" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1090" y="521.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="521.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-153" target="iE4L_jwIMQq8XWM_oUvE-158">
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-153" target="iE4L_jwIMQq8XWM_oUvE-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-153" target="iE4L_jwIMQq8XWM_oUvE-160">
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-153" target="iE4L_jwIMQq8XWM_oUvE-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-153" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;chest pain that’s on an off for 3 weeks, chest heaviness&lt;br&gt;that has lasted for 6 months&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1060" y="642.5" width="120" height="85" as="geometry" />
+          <mxGeometry x="1100" y="682.5" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-155" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;Holter monitor showing pause greater than 3.5&lt;br&gt;seconds&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1390" y="82.5" width="120" height="75" as="geometry" />
+          <mxGeometry x="1410" y="82.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-158" value="troponin I is normal&lt;div&gt;&amp;lt;0.01&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1060" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-160" value="&lt;div&gt;09/22/24&lt;/div&gt;CHEST XR&lt;div&gt;shows no abnormalities&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1210" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-161" target="iE4L_jwIMQq8XWM_oUvE-51">
           <mxGeometry relative="1" as="geometry" />
@@ -389,9 +365,6 @@
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-149" target="iE4L_jwIMQq8XWM_oUvE-149">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iE4L_jwIMQq8XWM_oUvE-171" value="1000 mL of D5W @ 75 mL/hr for dizziness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="920" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-174" target="iE4L_jwIMQq8XWM_oUvE-83">
           <mxGeometry relative="1" as="geometry" />
@@ -412,7 +385,7 @@
           <mxGeometry x="180" y="417.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-23" value="&lt;div&gt;delivery of blood to tissues is affected&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Rogers, 2023, pg. 1102)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="600" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-92" value="B1 receptors found on the SA node, AV node, atria, and ventricles and B2 receptors found on smooth&amp;nbsp; muscle increase heart rate and force of contraction&lt;div&gt;(Rogers, 2023, pg. 1032)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="474" y="262.5" width="130" height="155" as="geometry" />
@@ -425,6 +398,24 @@
         </mxCell>
         <mxCell id="iE4L_jwIMQq8XWM_oUvE-81" value="impulse may not be able to depolarize atria or ventricles&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Harding, et al., 2023, pg. 888)&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="910" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-73" value="failure of cells to generate action potential&amp;nbsp;&lt;div&gt;(Dakkak, et al., 2023)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iE4L_jwIMQq8XWM_oUvE-73" target="iE4L_jwIMQq8XWM_oUvE-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="210" as="sourcePoint" />
+            <mxPoint x="1460" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-72" value="sinus pause/arrest that last more than 3 seconds&lt;div&gt;(Dakkak, et al., 2023)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-171" value="1000 mL of D5W @ 75 mL/hr for dizziness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE4L_jwIMQq8XWM_oUvE-160" value="&lt;div&gt;09/22/24&lt;/div&gt;CHEST XR&lt;div&gt;shows no abnormalities&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="695" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
