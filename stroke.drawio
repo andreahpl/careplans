@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="ZsXf9INhn8GwqgerH_Wf">
-    <mxGraphModel>
+    <mxGraphModel dx="1018" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-1" value="R.O.&lt;div&gt;52 y/o M&lt;/div&gt;&lt;div&gt;FULL CODE&lt;/div&gt;&lt;div&gt;Admitted: 09/27/24&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-2" value="Risk Factors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-3" value="Pathophysiology" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-5" value="Diagnosis" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-7" value="Signs/Symptoms" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-9" value="Medications" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-11" value="Potential Complications" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-13" value="Diagnostics" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-15" value="Nursing Problem Statement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-17" value="Older than 55 y/o&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-18" value="Black/Hispanic/Native American&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-19" value="Family history of stoke&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-20" value="HTN&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-21" value="Heart Disease&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-22" value="Diabetes&amp;nbsp;&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-23" value="Smoking&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-24" value="Obesity&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-25" value="Sleep Apnea&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-26" value="Drug/Alcohol Use&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-27" value="Poor Diet&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-28" value="Lack of Physical Exercise&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-30" value="RIGHT HEMIPLEGIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
