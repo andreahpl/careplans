@@ -1,74 +1,484 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="ZsXf9INhn8GwqgerH_Wf">
-    <mxGraphModel dx="1018" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3395" dy="2753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FMyj3xEPK-cRLoahFx83-1" value="R.O.&lt;div&gt;52 y/o M&lt;/div&gt;&lt;div&gt;FULL CODE&lt;/div&gt;&lt;div&gt;Admitted: 09/27/24&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="130" height="90" as="geometry" />
+          <mxGeometry x="-280" y="-10" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-2" value="Risk Factors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="120" height="40" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-2" value="Risk Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="115" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-3" value="Pathophysiology" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="120" height="40" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-3" value="Pathophysiology" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FMyj3xEPK-cRLoahFx83-5" value="Diagnosis" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="-280" y="225" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-7" value="Signs/Symptoms" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="330" width="120" height="40" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-7" value="Signs/Symptoms" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-9" value="Medications" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="390" width="120" height="40" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-9" value="Medications" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-11" value="Potential Complications" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-11" value="Potential Complications" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-13" value="Diagnostics" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="120" height="40" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-13" value="Diagnostics" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-15" value="Nursing Problem Statement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-15" value="Nursing Problem Statement" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-17" value="Older than 55 y/o&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FMyj3xEPK-cRLoahFx83-17" value="Older than 55 y/o&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="240" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-18" value="Black/Hispanic/Native American&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-18" value="&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;Black/Hispanic/Native American&lt;/b&gt;&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-19" value="Family history of stoke&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-19" value="Family history of stoke&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-20" value="HTN&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-50" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-20" value="&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;HTN&lt;/b&gt;&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-21" value="Heart Disease&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-40" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-21" value="&lt;div&gt;Physical Inactivity&lt;/div&gt;&lt;div&gt;(Rogers, 2023, pg. 591)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-22" value="Diabetes&amp;nbsp;&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-40" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-22" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;&lt;b&gt;Diabetes&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-23" value="Smoking&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-23" value="Smoking&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-24" value="Obesity&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-24" value="Obesity&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-25" value="Sleep Apnea&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-25" value="Sleep Apnea&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="960" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-26" value="Drug/Alcohol Use&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-26" value="Drug/Alcohol Use&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-27" value="Poor Diet&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FMyj3xEPK-cRLoahFx83-28" value="Lack of Physical Exercise&lt;div&gt;(Harding et al., 2023, pg. 1517)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="FMyj3xEPK-cRLoahFx83-27" value="CAD&amp;nbsp;&lt;div&gt;(Rogers, 2023, pg. 591)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="840" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FMyj3xEPK-cRLoahFx83-30" value="RIGHT HEMIPLEGIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-31" value="High Cholesterol&lt;div&gt;(Rogers, 2023, pg. 591)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-32" value="High Sodium Intake&lt;div&gt;(Rogers, 2023, pg. 591)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-34" target="FMyj3xEPK-cRLoahFx83-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-34" value="transient ischemic attack" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-35" target="FMyj3xEPK-cRLoahFx83-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-35" value="temporary arterial obstruction of brain blood flow&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="425" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-36" target="FMyj3xEPK-cRLoahFx83-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-36" value="episodes that last less than 24 hours&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="425" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-37" target="FMyj3xEPK-cRLoahFx83-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-37" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;hemiparesis,&lt;/span&gt; &lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;numbness&lt;/span&gt;, sudden confusion, &lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;loss of balance&lt;/span&gt;, loss of vision, &lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;speech disturbances&lt;/span&gt;, sudden severe headache&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="790" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-38" target="FMyj3xEPK-cRLoahFx83-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-38" target="FMyj3xEPK-cRLoahFx83-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-38" target="FMyj3xEPK-cRLoahFx83-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="432.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-38" value="cerebral infarction: vascular occlusion causes brain to loose blood supply due to embolus / thrombi, gradual vessel occlusion or by partial occlusion of stenotic vessels&lt;div&gt;(Rogers, 2023, pg. 591)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-39" target="FMyj3xEPK-cRLoahFx83-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-39" value="neurologic metabolism is altered in 30 secs, metabolism stops in 2 mins and cell death occurs in 5 minutes&lt;div&gt;(Harding, et al., 2023, pg. 1516)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-41" target="FMyj3xEPK-cRLoahFx83-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-41" value="ischemic&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-42" target="FMyj3xEPK-cRLoahFx83-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-42" value="hemmorrhagic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-43" target="FMyj3xEPK-cRLoahFx83-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-43" value="affected area becomes pale and softens after occlusion&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="720" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-44" target="FMyj3xEPK-cRLoahFx83-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-44" value="necrosis, swelling and mushy disintegration appear after 48-72hrs after infarction&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="830" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-45" target="FMyj3xEPK-cRLoahFx83-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-45" value="macrophages and phagocytosis infiltrate necrotic tissue&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-46" target="FMyj3xEPK-cRLoahFx83-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-46" value="cavity in brain is filled with glial scarring&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-47" target="FMyj3xEPK-cRLoahFx83-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-47" value="750 - 1000 mL/min of blood flow or 20% of cardiac output must be maintained for optimal brain function&lt;div&gt;(Harding, et al., 2023, pg. 1516)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-48" target="FMyj3xEPK-cRLoahFx83-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-48" target="FMyj3xEPK-cRLoahFx83-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-48" value="blood flow interruption causes neurologic metabolism alteration&amp;nbsp;&lt;div&gt;(Harding, et al., 2023, pg. 1516)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-49" target="FMyj3xEPK-cRLoahFx83-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-49" value="cerebral ischemia causes impaired autoregulation&lt;div&gt;(Harding, et al., 2023, pg. 1516)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="730" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-51" target="FMyj3xEPK-cRLoahFx83-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-51" value="brain is protected by changes in arterial blood pressure by cerebral autoregulation&lt;div&gt;(Harding, et al., 2023, pg. 1516)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="730" y="477.5" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-45" target="FMyj3xEPK-cRLoahFx83-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-56" target="FMyj3xEPK-cRLoahFx83-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-56" target="FMyj3xEPK-cRLoahFx83-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-56" target="FMyj3xEPK-cRLoahFx83-190">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="588" />
+              <mxPoint x="410" y="504" />
+              <mxPoint x="310" y="504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-56" target="FMyj3xEPK-cRLoahFx83-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-56" value="shows no evidence of acute infarction on brain imaging&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="425" y="587.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-57" target="FMyj3xEPK-cRLoahFx83-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-57" value="thrombotic stroke&amp;nbsp;&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="890" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-58" target="FMyj3xEPK-cRLoahFx83-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-58" target="FMyj3xEPK-cRLoahFx83-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-58" value="atherosclerosis and inflammatory disease damage arterial walls&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="890" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-59" target="FMyj3xEPK-cRLoahFx83-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-59" target="FMyj3xEPK-cRLoahFx83-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-59" target="FMyj3xEPK-cRLoahFx83-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-59" target="FMyj3xEPK-cRLoahFx83-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-59" target="FMyj3xEPK-cRLoahFx83-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-59" value="prolonged vasoconstriction from HTN&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="485" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-61" target="FMyj3xEPK-cRLoahFx83-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-61" value="ulcerated area of vessel wall degenerates&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="890" y="580" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-63" target="FMyj3xEPK-cRLoahFx83-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-63" target="FMyj3xEPK-cRLoahFx83-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-63" value="platelets and fibrin adhere to damaged wall to form clots&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="890" y="670" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-64" target="FMyj3xEPK-cRLoahFx83-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-64" value="artery is occluded&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="890" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-65" target="FMyj3xEPK-cRLoahFx83-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-65" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;clot detaches and travel upstream&lt;/span&gt;&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="850" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-66" value="embolic stroke&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-69" target="FMyj3xEPK-cRLoahFx83-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-69" value="s/s anterior cerebral artery (ACA)&lt;div&gt;+ hemiparesis of arm more than leg&lt;/div&gt;&lt;div&gt;+ minimal numbness&lt;/div&gt;&lt;div&gt;+ inability to move or speak&lt;/div&gt;&lt;div&gt;+ incontinence&lt;/div&gt;&lt;div&gt;+ acute confusion&lt;/div&gt;&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1210" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-70" target="FMyj3xEPK-cRLoahFx83-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-70" value="spontaneous hemorrhage occurs in intracerebral, subarachnoid, or subdural locations due to HTN&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="890" y="270" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-71" value="severe headache, unconsciousness&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-73" target="FMyj3xEPK-cRLoahFx83-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-73" value="posterior cerebral artery (PCA)&lt;div&gt;+ &lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;weakness&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ dizziness&lt;/div&gt;&lt;div&gt;+ &lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;ataxia&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ can write but not read&lt;/div&gt;&lt;div&gt;+ altered memory&lt;/div&gt;&lt;div&gt;+ visual agnosia&lt;/div&gt;&lt;div&gt;+ cortical blindness&lt;/div&gt;&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="950" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-74" target="FMyj3xEPK-cRLoahFx83-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-74" value="basilar artery&lt;div&gt;+ difficulty breathing&lt;/div&gt;&lt;div&gt;+ ataxia (impaired balance)&lt;/div&gt;&lt;div&gt;+ tremor&lt;/div&gt;&lt;div&gt;+ nystagmus&lt;/div&gt;&lt;div&gt;dysphagia&lt;/div&gt;&lt;div&gt;+ dysarthria&lt;/div&gt;&lt;div&gt;+ vomiting&lt;/div&gt;&lt;div&gt;+ amnesia&lt;/div&gt;&lt;div&gt;+ come&lt;/div&gt;&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1065" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-75" target="FMyj3xEPK-cRLoahFx83-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-75" value="cerebellar artery&lt;div&gt;+ ataxia&lt;/div&gt;&lt;div&gt;+ vertigo&lt;/div&gt;&lt;div&gt;+ headache&lt;/div&gt;&lt;div&gt;+ n/v&lt;/div&gt;&lt;div&gt;+ slurred speech&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1210" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-76" value="transient episode of neurologic dysfunction due to focal brain, spinal cord or retinal ischemia&lt;div&gt;(Panuganti et al., 2023)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="681.25" width="115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-92" target="FMyj3xEPK-cRLoahFx83-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-92" target="FMyj3xEPK-cRLoahFx83-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-92" value="large artery thrombosis&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="250" y="681.25" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-93" target="FMyj3xEPK-cRLoahFx83-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-93" target="FMyj3xEPK-cRLoahFx83-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-93" value="small vessel ischemic disease&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="250" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-94" target="FMyj3xEPK-cRLoahFx83-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-94" target="FMyj3xEPK-cRLoahFx83-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-94" value="cardiac embolism&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="250" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-96" target="FMyj3xEPK-cRLoahFx83-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-96" value="lack of blood flow to distal site of arterial stenosis&amp;nbsp;&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="120" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-97" target="FMyj3xEPK-cRLoahFx83-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-97" value="lipophyalinosis or small vessel arteriolosclerosis due to HTN, diabetes&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="775" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-98" target="FMyj3xEPK-cRLoahFx83-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-98" value="clot in cardiac chamber due to afib&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-100" target="FMyj3xEPK-cRLoahFx83-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-100" value="ischemia without identifiable large artery atherothrombosis&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="975" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-95" target="FMyj3xEPK-cRLoahFx83-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-95" target="FMyj3xEPK-cRLoahFx83-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-95" value="cryptogenic&lt;div&gt;(Panuganti et al., 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="250" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-147" target="FMyj3xEPK-cRLoahFx83-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-147" target="FMyj3xEPK-cRLoahFx83-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-147" target="FMyj3xEPK-cRLoahFx83-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-147" value="increased coagulation&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="686.25" width="120" height="38.75" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-150" target="FMyj3xEPK-cRLoahFx83-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-150" target="FMyj3xEPK-cRLoahFx83-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-150" target="FMyj3xEPK-cRLoahFx83-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-150" target="FMyj3xEPK-cRLoahFx83-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-150" value="brain injury&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-150" target="FMyj3xEPK-cRLoahFx83-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1160" as="sourcePoint" />
+            <mxPoint x="815" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-72" target="FMyj3xEPK-cRLoahFx83-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-72" value="s/s middle cerebral artery (MCA)&lt;div&gt;+ hemiparesis of upper limb more than leg&lt;/div&gt;&lt;div&gt;+ numbness&lt;/div&gt;&lt;div&gt;+ aphasia&lt;/div&gt;&lt;div&gt;(Rogers, 2023, pg. 592)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1190" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-163" value="orthostatic hypotension, headache, neurological deficits, seizures" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="706.25" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-168" value="MRI in 2021 shows left PCA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-171" value="10 mg of&amp;nbsp; Amlodipine&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="425" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-172" value="81 mg of Aspirin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="667.5" width="120" height="38.75" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-173" value="80 mg of Lipitor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="720" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-174" value="100 mg of Metoprolol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="498.75" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-175" value="40 mg of Lisinopril" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-176" value="25 mg of Aldactone" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-184" value="&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;0732: 174/107&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;1155: 186/109&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;1515: 151/98&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-186" value="PT: 11.9&lt;div&gt;INR: 1.1&lt;/div&gt;&lt;div&gt;APTT: 34&lt;/div&gt;&lt;div&gt;(all normal values)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-189" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;09/27 MRI WO CONTRAST&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;no acute intracranial hemorrhage or acute infarction&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="120" height="71.25" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-191" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;09/27 ECHO&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;EF: 65-70%&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="635" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-56" target="FMyj3xEPK-cRLoahFx83-188">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="628" as="sourcePoint" />
+            <mxPoint x="140" y="603" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-188" value="&lt;div&gt;09/27 CTA HEAD+ NECK&lt;/div&gt;&lt;div&gt;no evidence of acute intracranial abnormality&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry y="555" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-190" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;09/27 VAS CAROTID DUPLEX&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;no stenosis&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-203" value="Problem Statement#1&lt;div&gt;Problem Statement #2&lt;/div&gt;&lt;div&gt;Problem #2&lt;/div&gt;&lt;div&gt;Problem #3&lt;/div&gt;&lt;div&gt;Problem #4&lt;/div&gt;&lt;div&gt;Problem #5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="801.25" width="130" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-204" value="&lt;div&gt;Problem Statement #2&lt;/div&gt;&lt;div&gt;Problem #2&lt;/div&gt;&lt;div&gt;Problem #3&lt;/div&gt;&lt;div&gt;Problem #4&lt;/div&gt;&lt;div&gt;Problem #5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1105" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-205" target="FMyj3xEPK-cRLoahFx83-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-205" value="&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Problem Statement#1&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem Statement #2&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #2&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #3&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #4&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #5&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="725" y="815" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-206" value="Problem #3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-207" value="&lt;br&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Problem Statement#1&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem Statement #2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1340" width="142.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-208" value="&lt;br&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Problem Statement#1&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem Statement #2&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #2&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #3&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #4&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem #5&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1210" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMyj3xEPK-cRLoahFx83-209" target="FMyj3xEPK-cRLoahFx83-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMyj3xEPK-cRLoahFx83-209" value="&lt;br&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Problem Statement#1&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Problem Statement #2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
